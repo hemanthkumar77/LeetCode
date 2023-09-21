@@ -1,0 +1,81 @@
+----------------------------------------------------------------------Complete this first prority--------------------------------------------------------------------------------
+References:
+1) https://www.youtube.com/@EricProgramming
+2) https://www.youtube.com/@KevinNaughtonJr
+3) https://www.youtube.com/@NickWhite
+4) https://www.youtube.com/@CodingSimplified
+-----------------------------------------------------------------------------------------Standard Problems----------------------------------------------------------------------------------
+1) Largest Subarray with zero sum
+2) SubArray sum equals to K
+3) Kadane's algorithm
+4) Max circular subarray
+5) Max Product Subarrays 
+6) K diff pair array 
+7) Sort array based on Heap 
+8) Kth largest value and smallest value in array
+9) SubArray product less than K
+
+10) Find all disappeared number - done
+11) Move Zero's
+12) Two Sum
+13) Merge Sorted Array
+14) Product of array Except self
+15) perfect squares
+16) Remove duplicates from sorted arrays
+17) Container with most water
+18) Rotate Array
+19) Sum of a array
+
+20) Find pair of integers whose sum is equal to given number
+21) Find first postive number missing
+22) Given array sub array or not
+24) Bubble Sort , Selection Sort
+25) Frequency Of each Number in array
+26) Binary Search , Linear Search 
+
+27) Length of the last word
+38) Longest Substring with At Most two distinct characters
+29) valid anagram
+30) word pattern
+31) WordSub sets
+32) Group Anagrams
+33) Longest Common prefix
+34) Sort Character based on Frequency
+35) Valid Parentheses
+
+36) Count the number of character occurences in String and display
+37) Remove the duplicate character from the string 
+38) Longest Repeating character replacement
+39) Longest Substring without repeating character (string)
+40) Longest Common Subsequence
+41) Coin Change
+42) Word Break
+43) Longest Increasing subsequence 
+
+44) Sum of digits
+45) Palindrome or not
+46) Armstrong number or not
+47) Fibonacci series
+48) factorial of a given number
+49) Happy Number
+50) String to Integer(Atoi)
+51) Word Search
+52) Rotate Image (Matrix)
+53) Matrix (addition,subraction,multiplication)
+54) Matrix Inverse.
+
+Core Java Interview Questions.
+1) Java-8 (Functional Interface) , Lambadas and Streams, Comparable and Comparator
+2) Design Patterns(Singleton(double locking synchronization),Factory,Builder,Abstract Factory and ProtoType)
+3) Thread implementation (extends Thread class and Implement Runnable Interface),Create a Immutable class with Mutable field like date
+-----------------------------------------------------------------------------------------------------------------------------------------
+DEC-2023
+4) MongoDB configuration and MongoTemplate
+5) Mysql configuration and FindBy methods
+  
+1) O(1) (constant time) - It will be running for the only one time,no matter what ever the input size is going to be it will complete the operation
+   within the time.
+2) O(Log n) - it is not nothing but the inputs cut in half (log base2 n) 
+   ex: log base2 8 =3 
+3) O(n) (linear time) - The operation time will compeletly depends on the size of the input 
+4) O(n^2) it is almost a brute force search. 
