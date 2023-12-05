@@ -31,7 +31,9 @@ Dec-07,08
     (b) First array with Numbers and Second array numbers (Both Non Zero with equal length)
  2) Product of array expect self
  3) Coin Change: https://www.youtube.com/watch?v=1R0_7HqNaW0
-
+ 4) Maximum repeated sub array
+ 5) Decode way
+ 6) Rotate Array
 Dec-09,10 - Revise
 --------------------------------------------------
 Dec-11,12
@@ -47,7 +49,7 @@ Dec-11,12
 1) Sum of digits
 2) Palindrome or not
 3) Armstrong number or not
-4) Fibonacci series
+4) Fibonacci series (Refer before you do)
 5) factorial of a given number
 6) Happy Number
 
@@ -58,7 +60,7 @@ Dec-11,12
 Two Pointers Problems:
 1) Subarray product less than K
 2) Remove Duplicates from sorted Array
-3) Container with Most Water
+
 
 DP:
 1) Perfect Square
