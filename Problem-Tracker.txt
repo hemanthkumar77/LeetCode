@@ -4,42 +4,35 @@ References:
 3) https://www.youtube.com/@NickWhite
 4) https://www.youtube.com/@CodingSimplified
 -------------------------------------------------
-Nov-30,Dec-01
+Dec(12/10)
  1) Kadane's algorithm
  2) Max Circular sub array 
  3) Max Product Sub Array
  4) Largest SubArray with zero sum
  5) Sort Array Based On Heap
-Dec-02,03
+Dec(12/11,12/12)
  1) SubArray sum equals to K
  2) Subarray Product less than K
  3) Find all disappeared number
  4) K diff pairs
-Dec-04 - Revise
 
-Dec-05
- 1) Move Zero's
+Dec(12/09)
  2) Two Sum
-Dec-06
  1) LongestCommonContinuousIncreasingSubsequence
  2) LongestIncreasingSequence 
-Dec-07,08
- 1) perfect squares - DP
- 2) Remove duplicates from sorted arrays - Two Pointers
+Dec(12/08)
  3) Merge Sorted Array 
     (a) First array numbers along with Zeros and Second array numbers (One with zeros and other with non zeros - unequal length)
-    (b) First array with Numbers and Second array numbers (Both Non Zero with equal length)
- 2) Product of array expect self
- 3) Coin Change: https://www.youtube.com/watch?v=1R0_7HqNaW0
- 4) Maximum repeated sub array
- 5) Decode way
- 6) Rotate Array
-Dec-09,10 - Revise
+    (b) First array with Numbers and Second array numbers (Both Non Zero with equal length) 
+DP:
+--> Maximum repeated sub array(similar to common string problem) 
+
+Search a element in rotated array 
+Find a Minimum in rotated array 
 --------------------------------------------------
-Dec-11,12
+Dec(12/07)
  1) Sum of a array
  2) Find pair of integers whose sum is equal to given number
- 3) Find first postive number missing
  4) Given array sub array or not
  5) Bubble Sort , Selection Sort
  6) Frequency Of each Number in array
@@ -52,15 +45,19 @@ Dec-11,12
 4) Fibonacci series (Refer before you do)
 5) factorial of a given number
 6) Happy Number
-
- --> First and last position of sorted array
- --> Squares of Sorted Array.
- --> Plus One
+----------------------------------------------------------------------------------------------------------
+Completed:
+--> Squares of Sorted Array.
+--> Plus One
+--> Sort the array of 0s, 1s, and 2s
+--> Product of array expect self
+--> Jump Game
+--> Rotate Array
+--> Move all the negative elements to one side of the array
+--> First Missing Positive number
+--> Remove Duplicates From Sorted Array
+--> Find All Disappeared number from array
+--> Find Missing numbers between two array?
+--> Move Zero's
+--> wave Array
 -----------------------------------------
-Two Pointers Problems:
-1) Subarray product less than K
-2) Remove Duplicates from sorted Array
-
-
-DP:
-1) Perfect Square
