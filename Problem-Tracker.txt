@@ -17,7 +17,6 @@ Dec(12/11,12/12)
  4) K diff pairs
 
 Dec(12/09)
- 2) Two Sum
  1) LongestCommonContinuousIncreasingSubsequence
  2) LongestIncreasingSequence 
 Dec(12/08)
@@ -26,9 +25,6 @@ Dec(12/08)
     (b) First array with Numbers and Second array numbers (Both Non Zero with equal length) 
 DP:
 --> Maximum repeated sub array(similar to common string problem) 
-
-Search a element in rotated array 
-Find a Minimum in rotated array 
 --------------------------------------------------
 Dec(12/07)
  1) Sum of a array
@@ -44,7 +40,7 @@ Dec(12/07)
 3) Armstrong number or not
 4) Fibonacci series (Refer before you do)
 5) factorial of a given number
-6) Happy Number
+6) Happy Number - hold
 ----------------------------------------------------------------------------------------------------------
 Completed:
 --> Squares of Sorted Array.
@@ -54,10 +50,21 @@ Completed:
 --> Jump Game
 --> Rotate Array
 --> Move all the negative elements to one side of the array
---> First Missing Positive number
+--> First Missing Positive number - hold
 --> Remove Duplicates From Sorted Array
---> Find All Disappeared number from array
---> Find Missing numbers between two array?
+--> Find All Disappeared number from array - hold
+--> Find Missing numbers between two array? 
 --> Move Zero's
 --> wave Array
+--> Two Sum
+Second Part Completed:
+-->Find a Minimum in rotated array
+-->Search a element in rotated array
+-->Find Pivot Index (formulae: total_sum-left_sum-num[i]==left sum)
+Shadow:
+-->Max Consecutive one's 1
 -----------------------------------------
+-->3Sum
+-->Partition of Equal SubSetSum
+-->Coin Change
+-->Merge Intervals
