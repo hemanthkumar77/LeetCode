@@ -1,0 +1,91 @@
+ Numbers:
+   1) Sum of a array
+   2) Find pair of integers whose sum is equal to given number
+   4) Given array sub array or not
+   --> Sum of Two Integer using xor operator
+   --> Swap two elements without temp
+   5) Sum of digits
+   6) Palindrome or not
+   7) Armstrong number or not
+   8) factorial of a given number
+   9) Bubble Sort , Selection Sort
+   10) Frequency Of each Number in array
+   11) Binary Search , Linear Search
+   12) Happy Number
+   13) Fibonacci series (Refer before you do)
+
+Basics:
+14) Squares of Sorted Array.
+15) Plus One
+16) Sort the array of 0s, 1s, and 2s
+17) Product of array expect self
+18) Jump Game
+19) Rotate Array
+20) Move all the negative elements to one side of the array
+21) First Missing Positive number - hold
+22) Remove Duplicates From Sorted Array
+23) Find All Disappeared number from array - hold
+24) Find Missing numbers between two array? 
+25) Move Zero's
+26) wave Array
+27) Two Sum
+28) Find Pivot Index (formulae: total_sum-left_sum-num[i]==left sum)
+29) Max Consecutive one's 1
+
+Medium:
+30) Find a Minimum in rotated array
+31) Search a element in rotated array
+32) Merge Intervals
+33) Partition of Equal SubSetSum
+34) Kadane's algorithm
+35) Max Circular sub array 
+36) Max Product Sub Array
+37) Largest SubArray with zero sum
+38) Sort Array Based On Heap
+39) SubArray sum equals to K
+40) Subarray Product less than K
+41) K diff pairs
+42) LongestCommonContinuousIncreasingSubsequence
+43) LongestIncreasingSequence
+44) First array numbers along with Zeros and Second array numbers (One with zeros and other with non zeros - unequal length)
+45) First array with Numbers and Second array numbers (Both Non Zero with equal length)
+46) Maximum repeated sub array(similar to common string problem) 
+47) coin change(normal change)
+
+String Development:
+Basics:
+1) How do you print duplicate characters from a string?
+2) How do you check if two strings are anagrams of each other?
+3) How can a given string be reversed using recursion? 
+4) How do you print the first non-repeated character from a string
+5) How do you check if two strings are a rotation of each other?
+6) how to remove the duplicate character from String?
+7) How do you remove a given character from String? 
+8) How to find the maximum occurring character in given String?
+9) Print all the subsets of a given string ? (https://www.youtube.com/watch?v=rhBGeLJ9Hao)
+10) Length of the last word
+11) Word Pattern
+12) IsSubsequence
+13) Merge Strings alternatively
+14) Two Strings are close
+15) Isomorphic String
+16) String Compression
+17) Print all permutation
+
+Title case conversion
+Sort the string in descending order
+Extract Maximum
+Medium:
+18) WordSub Sets
+19) Group Anagrams
+20) Longest Common Prefix
+21) Sort Character Based On Frequency
+22) Longest Substring without repeating character
+23) Longest Common Subsequence
+24) Longest Common SubString
+25) Word Break
+26) Valid Parentheses
+27) First NonRepeated Character
+28) Longest Repeating character replacement
+29) Decode String
+
