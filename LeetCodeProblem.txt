@@ -1,4 +1,4 @@
- Numbers:
+   Numbers:
    1) Sum of a array
    2) Find pair of integers whose sum is equal to given number
    4) Given array sub array or not
@@ -22,10 +22,10 @@ Basics:
 18) Jump Game
 19) Rotate Array
 20) Move all the negative elements to one side of the array
-21) First Missing Positive number - hold
+21) subarray zero sum 
 22) Remove Duplicates From Sorted Array
 23) Find All Disappeared number from array - hold
-24) Find Missing numbers between two array? 
+24) Find Missing numbers between two array 
 25) Move Zero's
 26) wave Array
 27) Two Sum
@@ -48,9 +48,17 @@ Medium:
 42) LongestCommonContinuousIncreasingSubsequence
 43) LongestIncreasingSequence
 44) First array numbers along with Zeros and Second array numbers (One with zeros and other with non zeros - unequal length)
-45) First array with Numbers and Second array numbers (Both Non Zero with equal length)
+45) First array with Numbe  rs and Second array numbers (Both Non Zero with equal length)
 46) Maximum repeated sub array(similar to common string problem) 
-47) coin change(normal change)
+
+Problem:
+33) Partition of Equal SubSetSum
+
+Doubt:
+27) Longest Repeating character replacement
+
+New:
+1) maximum length of subarray with positive product
 
 String Development:
 Basics:
@@ -85,7 +93,6 @@ Medium:
 24) Longest Common SubString
 25) Word Break
 26) Valid Parentheses
-27) First NonRepeated Character
-28) Longest Repeating character replacement
-29) Decode String
+27) Longest Repeating character replacement
+28) Decode String
 
