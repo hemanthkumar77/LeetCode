@@ -1,4 +1,4 @@
-   Numbers:
+  c   Numbers:
    1) Sum of a array
    2) Find pair of integers whose sum is equal to given number
    4) Given array sub array or not
@@ -31,6 +31,7 @@ Basics:
 27) Two Sum
 28) Find Pivot Index (formulae: total_sum-left_sum-num[i]==left sum)
 29) Max Consecutive one's 1
+30) Find a Peek element
 
 Medium:
 30) Find a Minimum in rotated array
@@ -48,17 +49,9 @@ Medium:
 42) LongestCommonContinuousIncreasingSubsequence
 43) LongestIncreasingSequence
 44) First array numbers along with Zeros and Second array numbers (One with zeros and other with non zeros - unequal length)
-45) First array with Numbe  rs and Second array numbers (Both Non Zero with equal length)
+45) First array with Numbers and Second array numbers (Both Non Zero with equal length)
 46) Maximum repeated sub array(similar to common string problem) 
-
-Problem:
-33) Partition of Equal SubSetSum
-
-Doubt:
-27) Longest Repeating character replacement
-
-New:
-1) maximum length of subarray with positive product
+47) maximum length of subarray with positive product
 
 String Development:
 Basics:
@@ -79,20 +72,27 @@ Basics:
 15) Isomorphic String
 16) String Compression
 17) Print all permutation
-
-Title case conversion
-Sort the string in descending order
-Extract Maximum
+18) Shuffle String
+19) Sort the string in descending order
+20) Extract Maximum
+--> Remove all adjacent duplicates from string
 Medium:
-18) WordSub Sets
-19) Group Anagrams
-20) Longest Common Prefix
-21) Sort Character Based On Frequency
-22) Longest Substring without repeating character
-23) Longest Common Subsequence
-24) Longest Common SubString
-25) Word Break
-26) Valid Parentheses
-27) Longest Repeating character replacement
-28) Decode String
+21) WordSub Sets
+22) Group Anagrams
+23) Longest Common Prefix
+24) Sort Character Based On Frequency
+25) Longest Substring without repeating character
+26) Longest Common Subsequence
+27) Longest Common SubString
+28) Word Break
+29) Valid Parentheses
+30) Longest Repeating character replacement
+31) Decode String
+32) Palidrome SubString
+33) Longest Palindrome Substring
+34) Edit Distance
+35) Remove Duplicates From adjacent string based on the kth value (based approach recursive or stack(main stack and temp stack))
+36) Find and Replace in string.
+37) Longest String chain
+
 
