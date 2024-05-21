@@ -32,10 +32,17 @@ Basics:
 28) Find Pivot Index (formulae: total_sum-left_sum-num[i]==left sum)
 29) Max Consecutive one's 1
 30) Find a Peek element
+--> Count primes
+--> Break a palindrome
+--> containers most water.
+--> Climibing stairs
+--> Gas Station.
 
+Letter Combinations of a Phone Number
 Medium:
 30) Find a Minimum in rotated array
 31) Search a element in rotated array
+
 32) Merge Intervals
 33) Partition of Equal SubSetSum
 34) Kadane's algorithm
@@ -51,8 +58,10 @@ Medium:
 44) First array numbers along with Zeros and Second array numbers (One with zeros and other with non zeros - unequal length)
 45) First array with Numbers and Second array numbers (Both Non Zero with equal length)
 46) Maximum repeated sub array(similar to common string problem) 
-47) maximum length of subarray with positive product
+48) kth largest element in an array 
+49) Daily Temperature
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 String Development:
 Basics:
 1) How do you print duplicate characters from a string?
@@ -76,6 +85,7 @@ Basics:
 19) Sort the string in descending order
 20) Extract Maximum
 --> Remove all adjacent duplicates from string
+
 Medium:
 21) WordSub Sets
 22) Group Anagrams
@@ -94,5 +104,16 @@ Medium:
 35) Remove Duplicates From adjacent string based on the kth value (based approach recursive or stack(main stack and temp stack))
 36) Find and Replace in string.
 37) Longest String chain
+38) Reorganize String
 
+LinkedList:
+1) Delete Node in a Linked List
+2) Remove Nth Node From End of List
+3) Reverse Linked List
+4) Merge Two Sorted Lists
+5) Palindrome Linked List
+6) Linked List Cycle
+7) Middle element in LinkedList
+8) LRU cache
+9) ADD Two Numbers
 
