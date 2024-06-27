@@ -42,7 +42,6 @@ Letter Combinations of a Phone Number
 Medium:
 30) Find a Minimum in rotated array
 31) Search a element in rotated array
-
 32) Merge Intervals
 33) Partition of Equal SubSetSum
 34) Kadane's algorithm
@@ -107,13 +106,11 @@ Medium:
 38) Reorganize String
 
 LinkedList:
-1) Delete Node in a Linked List
-2) Remove Nth Node From End of List
-3) Reverse Linked List
+--> Insert,Delete,Reverse LinkedList,Search,Middle Element,Remove Duplicates from the sorted list.
+1) Remove Nth Node From End of List
+2) LRU cache
+3) ADD Two Numbers
 4) Merge Two Sorted Lists
 5) Palindrome Linked List
 6) Linked List Cycle
-7) Middle element in LinkedList
-8) LRU cache
-9) ADD Two Numbers
 
